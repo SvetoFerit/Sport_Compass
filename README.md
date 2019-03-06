@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## PROJECT DESCRIPTION
+
+On the home page products are listed. Each product has image,short description, price, "view" button and "add to cart" button. View button redirect user to the detail description of product. Add to cart button add product to the cart. User can access the content of the cart clicking on the button "cart" in the top right corner of Navbar. In the cart user will see list of added products and total price. User can delete, increase and decrease quantity of specific product and also delete entire cart.
+
 ## Available Scripts
 
 In the project directory, you can run:
